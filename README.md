@@ -37,3 +37,20 @@ This project is a full-stack clone of the popular accommodation booking platform
 **Importance of User-Friendly Design**
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
+####### Color Styles
+
+1. Primary: #FF5A5F
+2. Secondary: #008489
+3. Background: #FFFFFF
+4. Text: #222222
+5. Secondary Text: #717171
+
+######## Typography
+
+1. Primary Font: Circular, Medium (500), 16px
+2. Headings: Circular, Bold (700), 24px-32px
+3. Secondary Text: Circular, Book (400), 14px
+
+######### Importance of Identifying Design Properties in a Mockup
+
+Identifying design properties such as colors, typography, spacing, and components ensures visual consistency, guides accurate UI development, and improves collaboration between team members. It saves time, supports accessibility and responsiveness, and lays the foundation for scalable, reusable design systems.
