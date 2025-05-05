@@ -54,3 +54,15 @@ A well-designed booking system reduces friction in the user journey, increases c
 ######### Importance of Identifying Design Properties in a Mockup
 
 Identifying design properties such as colors, typography, spacing, and components ensures visual consistency, guides accurate UI development, and improves collaboration between team members. It saves time, supports accessibility and responsiveness, and lays the foundation for scalable, reusable design systems.
+
+##########  Project Roles and Responsibilities.
+
+Project Manager: Oversees timeline, coordinates team, manages deliverables.
+Frontend Developers:	Implements UI components, ensures responsive design.
+Backend Developers:	Builds APIs, manages database, implements business logic.
+Designers:	Creates mockups, maintains design system, ensures UX quality
+QA/Testers:	Writes test cases, performs testing, reports bugs
+DevOps Engineers:	Manages deployment, CI/CD pipeline, server infrastructure
+Product Owner:	Defines requirements, prioritizes features, represents stakeholders
+Scrum Master:	Facilitates agile processes, removes blockers, organizes meetings
+
